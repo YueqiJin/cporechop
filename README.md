@@ -274,7 +274,7 @@ registry.add(my_barcode);
 
 ## Acknowledgments
 
-cporechop is a derivative work of [Porechop](https://github.com/rrwick/Porechop) by Ryan Wick (rrwick@gmail.com). The original Porechop is licensed under the GNU General Public License v3. This port is a C++20 reimplementation using seqan3 and is likewise distributed under the GPL v3.
+cporechop is a derivative work of [Porechop](https://github.com/rrwick/Porechop) by Ryan Wick (rrwick@gmail.com). The original Porechop is licensed under the GNU General Public License v3. This port is a C++20 reimplementation using seqan3 and is likewise distributed under the MIT License.
 
 All credit for the original design, adapter sequences, and algorithms goes to Ryan Wick.
 
