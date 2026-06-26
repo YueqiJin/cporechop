@@ -1,0 +1,7 @@
+build
+.cpm-cache
+.omo
+.sisyphus
+.github
+AGENTS.md
+test
