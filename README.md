@@ -282,4 +282,4 @@ All credit for the original design, adapter sequences, and algorithms goes to Ry
 
 ## License
 
-GNU General Public License v3. See [LICENSE](LICENSE) for the full text.
+MIT License. See [LICENSE](LICENSE) for the full text.
